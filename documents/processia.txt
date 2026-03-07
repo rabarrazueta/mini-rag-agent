@@ -1,0 +1,233 @@
+DOSSIER DE SERVICIOS Y
+SOLUCIONES PROCESSIA OPS
+1. PERFIL CORPORATIVO: VISIÓN Y PROPUESTA DE VALOR
+1.1. Quiénes Somos
+Processia Ops no es una agencia de desarrollo de software convencional; somos una
+organización dedicada a la Ingeniería de Procesos y Automatización. Nacemos de una
+premisa fundamental: la Industria 4.0 no es ni debe ser exclusiva de las grandes
+corporaciones automotrices, de software o energéticas; es el motor que debe impulsar
+a la PYME ecuatoriana y latinoamericana.
+Somos una Tech Startup con sede en Loja, Ecuador, fundada por ingenieros que
+entienden que la tecnología sin propósito es solo gasto. Nuestra identidad combina la
+disciplina de la ingeniería industrial (optimización, reducción de desperdicios, Lean
+Manufacturing) con la agilidad del desarrollo de software moderno (Python, Odoo, n8n,
+agentes AI).
+1.2. El Problema: El Costo Oculto de la Inercia Digital
+En el mercado actual, seguir operando "como siempre" conlleva un impuesto invisible
+pero letal: el Costo de la Inercia Digital. Identificamos que las empresas pierden
+rentabilidad diariamente debido a:
+• Silos de Información: Departamentos de ventas, contabilidad y bodega que no
+se hablan entre sí.
+• Desperdicio de Talento Humano: Personal calificado dedicando horas a copiar
+y pegar datos de Excel a sistemas contables, tareas repetitivas que matan la
+creatividad y fomentan el error humano.
+• Ceguera Operativa: Toma de decisiones basada en intuiciones o en reportes
+del mes pasado, en lugar de datos en tiempo real.
+1.3. Nuestra Filosofía: Democratización Tecnológica
+Nuestra misión es desbloquear el potencial de las empresas mediante la digitalización
+y automatización de procesos productivos. Creemos que una escuela, una ferretería,
+una farmacia o una consultora legal deben tener acceso al mismo nivel de eficiencia
+operativa que una multinacional, pero a un costo y escala que haga sentido financiero.
+2. METODOLOGÍA DE TRABAJO: ENFOQUE "MICRO-
+SOLUCIÓN ESCALABLE"
+A diferencia de las grandes consultoras que intentan vender proyectos gigantescos de
+años de duración y costos prohibitivos, en Processia Ops aplicamos un enfoque ágil e
+iterativo.
+2.1. La Estrategia de la Micro-Solución
+Entendemos el miedo de la PYME a la inversión tecnológica. Por eso, no pedimos un
+salto de fe, pedimos confianza basada en resultados rápidos.
+• Principio: Atacar el "dolor" más agudo del negocio primero. Encontremos la
+actividad más sencilla de solucionar o, en su defecto, que mayores
+consecuencias negativas le trae a la empresa.
+• Ejecución: Implementaciones rápidas (Sprints de 2 semanas) que resuelven un
+problema específico (como automatizar la entrada de facturas).
+• Resultado: El cliente ve el retorno de inversión (ROI) en menos de un mes,
+financiando con ese ahorro las siguientes etapas de digitalización.
+2.2. Fases del Proyecto
+1. Diagnóstico y Consultoría (La Base): Nadie va al médico y pide una cirugía
+sin análisis. Nosotros operamos igual. Realizamos un levantamiento de procesos
+(mapping) para identificar cuellos de botella.
+o Modelo: Se factura por hora ($25/h).
+o Garantía: Si el cliente decide implementar la solución con nosotros, el
+costo de esta consultoría se abona/descuenta al 100% del precio final
+del proyecto. Esto asegura compromiso mutuo.
+2. Diseño de la Arquitectura: Seleccionamos la herramienta correcta para el
+trabajo, no la de moda. Ya sea un script de Python para mover datos masivos,
+un flujo en n8n para conectar apps, o un módulo de Odoo. No hacemos sobre
+ingeniería, implementamos solo lo necesario.
+3. Implementación y Despliegue: Configuración de entornos, desarrollo de
+scripts, análisis de seguridad y validación.
+4. Estabilización y Soporte: Ofrecemos un periodo de garantía (1 mes) post-
+implementación para asegurar que la solución se adapte a la realidad operativa,
+con opciones de soporte extendido y bots de asistencia 24/7.
+3. PORTAFOLIO DE SERVICIOS Y CAPACIDADES TÉCNICAS
+En Processia Ops, dividimos nuestras capacidades y servicios en cuatro pilares
+fundamentales de la Industria 4.0:
+3.1. Automatización de Flujos de Trabajo (Workflow Automation)
+Conectamos las aplicaciones que tu empresa ya usa para que funcionen como un solo
+cerebro. No añadimos nada, ¡lo integramos como si fuera uno solo!
+• Herramientas Principales: n8n (Expertise principal), Make, Zapier.
+• Capacidad Técnica:
+o Integración de más de 300 aplicaciones (Google Workspace, CRMs,
+Redes Sociales, Bancos).
+o Manejo de webhooks y APIs REST para conexiones a medida.
+o Despliegue en servidores propios (Self-hosted) para mayor privacidad y
+control de costos, o gestión en nube.
+• Casos de Uso Típicos:
+o Comercial: Captura de leads en Facebook/Web, para envío a CRM y
+notificación a vendedores por WhatsApp/Telegram.
+o Operativo: Generación automática de contratos PDF al llenar un
+formulario.
+3.2. Ingeniería de Datos y Pipelines ETL (Extract, Transform, Load)
+Los datos son el nuevo petróleo, pero el petróleo crudo no sirve si no se refina.
+Poseemos una sólida capacidad en ingeniería de datos, respaldada por experiencia en
+entornos académicos y complejos.
+• Herramientas: Python (Pandas, SQLAlchemy, Requests), Bases de Datos
+SQL/NoSQL (PostgreSQL, SQLite, MongoDB).
+• Capacidad Técnica:
+o Extracción: Capacidad de realizar scraping ético, consumo de APIs
+complejas (ej. CrossRef, Google Scholar) y lectura de fuentes no
+estructuradas.
+o Transformación: Limpieza de datos sucios, normalización de formatos,
+cruce de bases de datos dispares y validación de integridad. Referencia
+técnica: Experiencia demostrable en proyectos manejando grandes
+volúmenes de producción científica y gestión académica. Más detalles
+en: https://github.com/rabarrazueta?tab=repositories
+o Carga: Inyección de datos limpios en sistemas ERP, Dashboards de BI
+o bases de datos maestras.
+• Valor para el Negocio: Migraciones de sistemas antiguos a nuevos sin pérdida
+de información, y preparación de datos para Business Intelligence.
+3.3. Sistemas Integrales de Gestión (ERP)
+La columna vertebral de la empresa moderna. Centralizamos la operación para eliminar
+el caos.
+• Herramienta Principal: Odoo (Community y Enterprise).
+• Capacidad Técnica:
+o Implementación de módulos Core: Inventario, Ventas, Facturación
+Electrónica (tropicalizada a Ecuador), Contabilidad, CRM.
+o Personalización de reportes y vistas.
+o Gestión de servidores VPS para alojamiento de Odoo seguro y escalable.
+• Diferenciador: No solo instalamos un software; adaptamos tus procesos
+operativos para que fluyan dentro del sistema (Mejora de Procesos + Software).
+3.4. RPA (Robotic Process Automation) y Agentes IA
+Llevamos la automatización al siguiente nivel, delegando tareas cognitivas y repetitivas
+a la fuerza de trabajo digital.
+• RPA (Automatización Robótica):
+o Herramientas: Power Automate (Microsoft Ecosystem), UiPath
+(Consultar disponibilidad, actualmente en fase beta).
+o Enfoque: Automatización de tareas de escritorio e interacciones con la
+suite de Office 365. Ideal para empresas que viven en Excel/Outlook.
+Estamos en constante capacitación para ofrecer flujos de RPA cada vez
+más complejos.
+• Agentes Inteligentes (IA):
+o Implementación de LLMs (Modelos de Lenguaje) integrados a tus datos.
+o Creación de Chatbots de Soporte (Customer Support Agents) que leen
+tus manuales y responden 24/7.
+o Agentes de Análisis que "conversan" con tus bases de datos para
+responder preguntas como "¿Cuál fue el producto más vendido el martes
+pasado?".
+o Actividades de redacción rutinarias, hasta incluso relacionadas con
+creatividad y creación de contenido.
+4. IMPACTO PROYECTADO Y CASOS DE USO (Ingeniería
+Aplicada)
+En Processia Ops no adivinamos; medimos. A continuación, presentamos proyecciones
+de impacto basadas en nuestros pilotos de ingeniería y benchmarks de la industria,
+demostrando cómo nuestras soluciones transforman métricas operativas críticas.
+4.1. Caso de Estudio A: Logística y Distribución Inteligente
+El Reto: Una PYME comercial enfrenta cuellos de botella en la gestión de pedidos. El
+proceso manual (Excel + Email) genera errores de digitación y retrasos en las entregas.
+Solución Processia: Implementación de ERP Odoo + Automatización de notificaciones.
+Métricas de Impacto (Resultados Proyectados):
+• Velocidad de Entrega: Reducción del 40% en el ciclo de pedido (de 5 días a 3
+días promedio).
+• Calidad Operativa: Disminución drástica de errores en pedidos del 10% al 3%
+(Reducción del 70% en devoluciones).
+• Satisfacción del Cliente: Aumento del índice de satisfacción (NPS) en un 25%
+gracias a la transparencia y rapidez. (Datos basados en pilotos y demos de
+implementación ERP).
+4.2. Caso de Estudio B: Eficiencia Administrativa y Automatización
+El Reto: Personal administrativo dedica el 40% de su jornada a tareas repetitivas (copiar
+datos, generar reportes manuales), lo que llamamos "Desperdicio de Talento".
+Solución Processia: Rediseño de Procesos + Flujos de Automatización (n8n).
+Evolución de la Productividad (Semanas 1-5):
+• Semana 1: La productividad salta del 48% al 73% tras la automatización inicial.
+• Consolidación: Se alcanza una estabilidad operativa con 97% de eficacia y
+precisión, eliminando virtualmente el error humano en tareas de digitación.
+• Control: La visibilidad y control sobre los procesos sube del 52% al 99%. (Datos
+basados en análisis de reingeniería de procesos con datasets de ejemplo).
+4.3. Caso de Estudio C: Ingeniería de Datos para la Academia/Investigación
+(ETL)
+El Reto: Instituciones que manejan grandes volúmenes de información académica
+(papers, registros) luchan con datos "sucios", duplicados y dispersos en múltiples
+fuentes.
+Solución Processia (DaaS - Data as a Service): Pipelines ETL personalizados para
+extracción, limpieza y normalización masiva.
+Resultado: Entrega de datasets limpios y listos para análisis, reduciendo meses de
+trabajo manual a horas de procesamiento automático.
+5. MODELO COMERCIAL Y PLANES DE INVERSIÓN
+Nuestra estructura de precios es transparente, modular y diseñada para escalar contigo.
+5.1. Consultoría y Diagnóstico Estratégico
+El primer paso para dejar de adivinar y empezar a optimizar.
+• Tarifa: $25.00 USD / hora.
+• Beneficio "Riesgo Cero": Si decides contratar la implementación del proyecto
+con nosotros, te descontamos el 100% de lo pagado en esta fase de consultoría
+del precio final. Básicamente, el diagnóstico te sale gratis si te conviertes en
+cliente.
+5.2. Implementación de Proyectos (Pago Único)
+El costo de construir y desplegar tu solución a medida.
+• Micro-Soluciones de Automatización (n8n / Agentes IA):
+o Rango: $50 - $500 USD (Dependiendo de la complejidad del flujo).
+o Incluye: Diseño del flujo, integración de APIs, configuración de agentes y
+pruebas.
+• Sistemas Integrales ERP (Odoo):
+o Desde: $250 USD (Base para implementaciones esenciales).
+o Sin techo: El precio escala según los módulos requeridos (Contabilidad
+completa, Facturación Electrónica, eCommerce, etc.).
+• Servicios de Datos (ETL):
+o Cotización bajo medida según volumen y complejidad de la fuente.
+o Modelo DaaS (Data as a Service): Entregamos los datos procesados y
+limpios; la infraestructura y el código fuente permanecen como propiedad
+intelectual de Processia Ops.
+5.3. Suscripción Mensual de Mantenimiento y Soporte (Retainer)
+La tecnología requiere cuidado. Aseguramos que tu operación nunca se detenga.
+• Rango: $25 - $200 USD / mes.
+o Nivel Básico ($25-$75): Para automatizaciones y Agentes IA. Incluye
+monitoreo de servidores, actualizaciones de seguridad y bolsa de
+consumo de IA (tokens de modelos como GPT/Claude). Nota: La tarifa
+se revisa periódicamente para ajustar el consumo real de IA.
+o Nivel Empresarial ($50-$200): Para implementaciones completas de ERP
+Odoo. Incluye costo de hosting en VPS seguro, copias de seguridad
+(backups) y soporte técnico prioritario.
+• Flexibilidad de Gestión:
+o Opción Recomendada (Full Managed): Processia Ops se encarga de
+todo (servidores, tokens, actualizaciones). Tú solo te enfocas en tu
+negocio.
+o Opción Autogestionada: Si tu empresa cuenta con equipo de TI, podemos
+entregar la solución para que ustedes la administren (bajo su propia
+responsabilidad técnica), eliminando nuestra cuota de mantenimiento
+mensual (aplican restricciones en garantías).
+6. GARANTÍA, SOPORTE Y EVOLUCIÓN (SLA)
+6.1. Nuestra Promesa de Estabilidad
+• Garantía de Implementación: Ofrecemos 1 mes (30 días) de soporte gratuito
+post-entrega para corregir cualquier "bug" o ajuste menor derivado de la
+implementación. Queremos que duermas tranquilo sabiendo que funciona.
+• Cliente Frecuente: Posibilidad de extender el periodo de garantía o mejorar las
+condiciones de soporte para clientes con múltiples proyectos activos.
+6.2. Canales de Atención
+• Soporte Humano Especializado: Atención directa con nuestros ingenieros en
+horario de oficina (Lunes a Viernes, 09:00 - 18:00).
+• Soporte IA 24/7: Acceso exclusivo a nuestro Bot de Asistencia Técnica para
+resolver dudas frecuentes, guías de uso y troubleshooting básico en cualquier
+momento, madrugada o feriado.
+6.3. Innovación Continua (Roadmap)
+• RPA (Beta): Estamos desarrollando capacidades avanzadas en Robotic
+Process Automation (Power Automate) para interactuar con sistemas legacy.
+Disponible actualmente bajo consulta para proyectos piloto.
+7. SIGUIENTES PASOS
+La brecha entre tu empresa y la Industria 4.0 no es de años, es de una decisión.
+¿Cómo empezamos?
+1. Agendamiento: Reserva tu sesión de diagnóstico inicial.
+2. Propuesta: Recibe un plan de acción claro, con costos y tiempos definidos (sin
+letra chica).
+3. Acción: En tan solo 2 semanas, podrías tener tu primera micro-solución
+operativa ahorrándote dinero.
+Processia Ops El lugar donde tu productividad vuela
