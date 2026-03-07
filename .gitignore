@@ -9,3 +9,7 @@ venv/
 .chroma/
 models/
 .cache/
+.venv/ 
+
+# Logs
+*.log

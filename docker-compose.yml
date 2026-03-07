@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  rag-api:
+    build: . # Usar el Dockerfile que está en esta misma carpeta
+    ports:
+      - "8000:8000"
+    environment:
+      - GROQ_API_KEY=${GROQ_API_KEY} # NO ALMACENAR KEYS EN EL CÓDIGO
+    volumes:
+      - ./documents:/app/documents
