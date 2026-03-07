@@ -13,9 +13,14 @@ class IngestRequest(BaseModel):
 class QueryRequest(BaseModel):
     pregunta: str
 
+@app.on_event("startup")
+async def startup_event():
+    print("📂 Cargando documentos locales en memoria...")
+    rag.ingest_folder("documents")
+
 @app.post("/ingest")
 def ingest(req: IngestRequest):
-    rag.ingest(req.texto, req.doc_id)
+    rag.ingest(req.texto, req.doc_id, fuente="api_fastapi")
     return {"status": "ok", "mensaje": f"Documento {req.doc_id} procesado"}
 
 @app.post("/query")
